@@ -1,6 +1,9 @@
-## Team 02 - SEA:ME (Software Engineering in Automotive & Mobility Ecosystem)
-
-
+## SEA:ME (Software Engineering in Automotive & Mobility Ecosystem)
+Team 02
+# Members
+[Kian](https://github.com/kianwasabi) <br>
+[Jinghong](https://github.com/Lagavulin9) <br>
+[Seungwoo](https://github.com/SeungWoo-L) <br>
 
 <!--
 
