@@ -1,4 +1,6 @@
-## Hi there 👋
+## Team 02 - SEA:ME (Software Engineering in Automotive & Mobility Ecosystem)
+
+
 
 <!--
 
